@@ -95,6 +95,12 @@ Key cleaning steps performed:
 
 ---
 
+## 📊 Power BI Dashboards (Screenshots)
+
+> Note: Dashboards were created using Power BI Desktop.  
+> Interactive sharing is unavailable due to trial version limitations.
+> (Screenshots available in `/NetFlix Titles/Images/`)
+
 ## 📁 Project Structure
 📦 NetFlix Titles
 ┣ 📂 data
@@ -102,6 +108,8 @@ Key cleaning steps performed:
   ┗ netflix_cleaned.csv
 ┣ 📂 Notebook
 ┃ ┗ Netflix.ipynb
+┣ 📂 Images
+┃ ┗ Screenshots(1-5)
 ┣ 📄 Insights.txt
 ┣ 📄 README.md
 ┣ 📄 requirements.txt
